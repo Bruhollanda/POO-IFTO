@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Entrevista {
     int idade;
-    double cont1835, cont40;
+    double contadorIdade1835, contadorIdade40;
     Pessoa p = new Pessoa();
     Scanner sc = new Scanner(System.in);
 
@@ -19,9 +19,9 @@ public class Entrevista {
         p.setAnoNascimento(sc.nextInt());
         idade = p.calcularIdade();
         if (idade > 17 && idade < 36) {
-            cont1835++;
+            contadorIdade1835++;
         } else if (idade > 40) {
-            cont40++;
+            contadorIdade40++;
         }
 
         System.out.println("Informe a altura em centímetros: ");
@@ -32,11 +32,11 @@ public class Entrevista {
         return p;
     }// obterDados
 
-    public double getCont1835() {
-        return cont1835;
+    public double getContadorIdade1835() {
+        return contadorIdade1835;
     }
 
-    public double getCont40() {
-        return cont40;
+    public double getContadorIdade40() {
+        return contadorIdade40;
     }
 }// Entrevista

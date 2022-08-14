@@ -1,5 +1,4 @@
 public class Relatorio {
-    Entrevista e = new Entrevista();
     /*public int qntEntrevistadas() {
         return 0;
     }*/// qntEntrevistadas

@@ -17,13 +17,10 @@ public class Principal {
                     "\nOutro número para sair;");
             option = sc.nextInt();
         }// while
+        double listSize = pessoas.size();
 
-        System.out.println(r.porcentagem1835(pessoas.size(), e.getCont1835()));
-        System.out.println(r.porcentagem40(pessoas.size(), e.getCont40()));
-
-        for (Pessoa p: pessoas) {
-            System.out.println(p.toString());
-        }
+        System.out.println(r.porcentagem1835(listSize, e.getContadorIdade1835()));
+        System.out.println(r.porcentagem40(listSize, e.getContadorIdade40()));
 
     }// main
 }// Principal
