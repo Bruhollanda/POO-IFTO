@@ -19,8 +19,10 @@ public class Principal {
         }// while
         double listSize = pessoas.size();
 
-        System.out.println(r.porcentagem1835(listSize, e.getContadorIdade1835()));
-        System.out.println(r.porcentagem40(listSize, e.getContadorIdade40()));
+        System.out.println(r.porcentagemIdade1835(listSize, e.getContadorIdade1835()));
+        System.out.println(r.porcentagemIdade40(listSize, e.getContadorIdade40()));
+
+        r.situacaoIMC(pessoas);
 
     }// main
 }// Principal
