@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Entrevista {
     int idade;
     double contadorIdade1835, contadorIdade40;
-    Pessoa p = new Pessoa();
-    Scanner sc = new Scanner(System.in);
 
     public Entrevista(int idade) {
         this.idade = idade;
@@ -12,6 +10,8 @@ public class Entrevista {
     public Entrevista() { }
 
     public Pessoa obterDados() {
+        Pessoa p = new Pessoa();
+        Scanner sc = new Scanner(System.in);
         System.out.println("Informe o nome: ");
         p.setNome(sc.nextLine());
 
@@ -24,8 +24,8 @@ public class Entrevista {
             contadorIdade40++;
         }
 
-        System.out.println("Informe a altura em centímetros: ");
-        p.setAltura(sc.nextInt());
+        System.out.println("Informe a altura: ");
+        p.setAltura(sc.nextDouble());
         System.out.println("Informe o peso: ");
         p.setPeso(sc.nextDouble());
         sc.nextLine();

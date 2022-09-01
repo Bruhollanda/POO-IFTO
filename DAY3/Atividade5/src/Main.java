@@ -3,6 +3,6 @@ public class Main {
         Auxilia auxilia = new Auxilia();
         Matriz matriz = new Matriz();
 
-        matriz.desenhar(auxilia.obterNumero());
+        matriz.draw(auxilia.getNumber());
     }
 }

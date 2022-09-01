@@ -22,7 +22,11 @@ public class Principal {
         System.out.println(r.porcentagemIdade1835(listSize, e.getContadorIdade1835()));
         System.out.println(r.porcentagemIdade40(listSize, e.getContadorIdade40()));
 
+        System.out.println(pessoas);
+        System.out.println("-------------------------------");
         r.situacaoIMC(pessoas);
+        System.out.println("-------------------------------");
+        r.pessoasDentroDoPeso(pessoas);
 
     }// main
 }// Principal
