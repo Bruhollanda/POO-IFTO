@@ -52,5 +52,13 @@ public class Pessoa {
         this.peso = peso;
     }
 
-
+    @Override
+    public String toString() {
+        return "Pessoa{" +
+                "nome='" + nome + '\'' +
+                ", anoNascimento=" + anoNascimento +
+                ", altura=" + altura +
+                ", peso=" + peso +
+                '}';
+    }
 }// Pessoa
