@@ -4,7 +4,7 @@ public class Auxilia {
     int num;
     Scanner sc = new Scanner(System.in);
 
-    int obterNumero(){
+    int getNumber(){
         System.out.print("Informe um número impar maior que 1: ");
         num = sc.nextInt();
         while ((num % 2 == 0) || (num <= 1)){

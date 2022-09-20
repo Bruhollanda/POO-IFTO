@@ -1,7 +1,7 @@
 public class Pessoa {
     String nome;
-    int anoNascimento, altura;
-    double peso;
+    int anoNascimento;
+    double peso, altura;
 
     public Pessoa(String nome, int anoNascimento, int altura, double peso) {
         this.nome = nome;
@@ -17,7 +17,7 @@ public class Pessoa {
     }// calcularIdade
 
     public double calcularIMC() {
-        return 0;
+        return (peso/(altura*altura));
     }// calcularIMC
 
     public String getNome() {
@@ -36,11 +36,11 @@ public class Pessoa {
         this.anoNascimento = anoNascimento;
     }
 
-    public int getAltura() {
+    public double getAltura() {
         return altura;
     }
 
-    public void setAltura(int altura) {
+    public void setAltura(double altura) {
         this.altura = altura;
     }
 
