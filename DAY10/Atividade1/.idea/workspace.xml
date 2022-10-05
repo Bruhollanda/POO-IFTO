@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3414971-85d5-43ad-b607-b2f31b77f221" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/AULA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/src/um/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/src/um/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/src/um/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AULA/src/um/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zebra.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FeA2CO32eiBhy4yujn1hrKLYeu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3414971-85d5-43ad-b607-b2f31b77f221" name="Changes" comment="" />
+      <created>1664841968928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664841968928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
