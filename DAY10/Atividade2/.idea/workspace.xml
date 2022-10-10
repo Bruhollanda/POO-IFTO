@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf2e741f-381a-4014-9eb4-0c7a7de5806b" name="Changes" comment="">
+    <list default="true" id="cb24b967-057b-4e6e-991b-e0c69fdb73e1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Atividade1.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atividade2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contabiliza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contratado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Servidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade1/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade1/src/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1/src/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade1/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1/src/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade1/src/Zebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1/src/Zebra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +29,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -27,7 +46,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2FxCTjpnfCA3YVIIw5AbXQFXMtj" />
+  <component name="ProjectId" id="2FxH1iNTSGTmoeqUCH4vLLoTg0y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -39,13 +58,14 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Atividade1" />
+      <module name="Atividade2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,11 +79,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf2e741f-381a-4014-9eb4-0c7a7de5806b" name="Changes" comment="" />
-      <created>1665424394853</created>
+      <changelist id="cb24b967-057b-4e6e-991b-e0c69fdb73e1" name="Changes" comment="" />
+      <created>1665426603644</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665424394853</updated>
+      <updated>1665426603644</updated>
     </task>
     <servers />
   </component>

@@ -1,15 +1,24 @@
 public class Zebra extends Animal {
+    String raca;
     public Zebra(String nome, String cor, int anoNascimento) {
         super(nome, cor, anoNascimento);
     }
 
     @Override
-    public int obterIdade() {
-        return 0;
+    public String obterRaca() {
+        if (cor.equals("preto")) {
+            setRaca("zebra");
+        } else if (cor.equals("branco")) {
+            setRaca("zebra");
+        }
+        return getRaca();
     }
 
-    @Override
-    public String obterRaca() {
-        return null;
+    public String getRaca() {
+        return raca;
+    }
+
+    public void setRaca(String raca) {
+        this.raca = raca;
     }
 }// class
